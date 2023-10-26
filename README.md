@@ -11,7 +11,7 @@
 <p>This is an Simple ToDo application devolped using React in frontend where we can add and edit task with completetion status.</p>
 
 
-<h5>MyPortFoilio available at  [https://deepaksmportfolio.netlify.app/](https://deepaksmportfolio.netlify.app/)</h5>
+<h5>MyPortFoilio available at  (https://deepaksmportfolio.netlify.app/)</h5>
 
 - 📫 Reach me: **dpkmdu@gmail.com**
 
