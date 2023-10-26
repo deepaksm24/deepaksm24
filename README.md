@@ -8,7 +8,7 @@
 <h4>3️⃣ MySchool (https://myschool-u9je.onrender.com/)</h4>
 <p>This is an Simple school Management App to add Student, teachers and maintain thier score card using context in react.</p>
 <h4>4️⃣ ToDO App (https://comfy-gnome-57fbec.netlify.app/)</h4>
-<p>This is an Simple ToDo application devolped using React in frontend where we can add task and edit task with completetion status.</p>
+<p>This is an Simple ToDo application devolped using React in frontend where we can add and edit task with completetion status.</p>
 
 
 <h5>MyPortFoilio available at  [https://deepaksmportfolio.netlify.app/](https://deepaksmportfolio.netlify.app/)</h5>
