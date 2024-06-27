@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">Full Stack Devolper - MERN Stack with analytical and driven mindset.</h3>
+<h3 align="center">IT OT PLC Controls and Design Engineer + Full Stack Devolper - MERN Stack with analytical and driven mindset.</h3>
 <h3 align="left">Projects:</h3>
 <h4>1️⃣ MovieBook  (https://moviebook-w1wb.onrender.com/)</h4>
 <p>This is an Movie Booking websites, which provides user online booking experience and admin to control shows and theatres.</p>
